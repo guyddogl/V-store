@@ -1,2 +1,2 @@
 # V-store
-Online Store
+Online Store usando apenas com HTML / CSS / JavaScript
